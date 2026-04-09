@@ -2,8 +2,22 @@
 
 ## 📋 Project Repository
 ```
-git clone git@github.com:Gitechcode/loginform.git
+git clone https://github.com/Gitechcode/loginform.git
 ```
+# Clone project
+git clone git@github.com:Gitechcode/loginform.git
+
+# Enter folder
+cd loginform
+
+# Install Flutter packages
+flutter pub get
+
+# Run app
+flutter run
+git add .
+git commit -m "feat: add cart screen design"
+git push
 
 ---
 
